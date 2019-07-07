@@ -1,12 +1,13 @@
 {
-  "name": "table-scraper",
+  "name": "dn-table-scraper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Duy Nhan",
+  "email": "duynhana1@gmail.com",
   "license": "ISC",
   "dependencies": {
     "htmlparser2": "^3.10.1",
