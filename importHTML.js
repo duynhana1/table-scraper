@@ -17,7 +17,6 @@ module.exports = function(html_string) {
           break;
         case "th":
         case "td":
-        default:
           data = "";
       }
     },
