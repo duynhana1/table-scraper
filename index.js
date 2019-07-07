@@ -8,8 +8,3 @@ module.exports = (url, cb) => {
       cb( importHTML(htmlString) )
     })
 }
-
-// let url = "https://tradingeconomics.com/currencies"
-// export_tables(url, (tables) => {
-//   console.log(tables)
-// })
